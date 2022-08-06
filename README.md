@@ -140,11 +140,11 @@ This package uses [PHPUnit](https://packagist.org/packages/phpunit/phpunit) libr
 For Unix:
 
 ```bash
-export KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit ./tests
+export KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit
 ```
 
 For Windows:
 
 ```bash
-set KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit ./tests
+set KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit
 ```
