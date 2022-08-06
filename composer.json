@@ -1,5 +1,6 @@
 {
   "name": "muharremyildirim/kolaygelsin-php-client",
+  "license": "MIT",
   "require": {
     "guzzlehttp/guzzle": "^7.4"
   },
