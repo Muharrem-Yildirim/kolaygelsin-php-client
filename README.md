@@ -1,6 +1,6 @@
 # kolaygelsin-php-client
 
-[KolayGelsin](https://kolaygelsin.com/) cargo client for PHP.
+[KolayGelsin](https://kolaygelsin.com/) cargo client for PHP. Available on [packagist.org](https://packagist.org/packages/muharremyildirim/kolaygelsin-php-client).
 
 **This package is created and maintained by me, which means it is not official package.**
 
