@@ -1,5 +1,10 @@
 {
   "name": "muharremyildirim/kolaygelsin-php-client",
+  "description": "PHP client for KolayGelsin.com cargo.",
+  "keywords": [
+    "kolaygelsin.com",
+    "cargo"
+  ],
   "license": "MIT",
   "require": {
     "guzzlehttp/guzzle": "^7.4"
@@ -10,7 +15,8 @@
   "authors": [
     {
       "name": "Muharrem Yıldırım",
-      "email": "muharremyildirim303@gmail.com"
+      "email": "muharremyildirim303@gmail.com",
+      "homepage": "http://muharremyildirim.net"
     }
   ],
   "autoload": {

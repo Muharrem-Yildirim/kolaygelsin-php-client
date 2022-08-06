@@ -2,6 +2,8 @@
 
 [KolayGelsin](https://kolaygelsin.com/) cargo client for PHP.
 
+**This package is created and maintained by me, which means it is not official package.**
+
 ## Installation
 
 The package is available via composer:
