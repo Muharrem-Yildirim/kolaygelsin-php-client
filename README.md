@@ -1,6 +1,6 @@
 # kolaygelsin-php-client
 
-[Kolaygelsin](https://kolaygelsin.com/) cargo client for PHP.
+[KolayGelsin](https://kolaygelsin.com/) cargo client for PHP.
 
 ## Installation
 
