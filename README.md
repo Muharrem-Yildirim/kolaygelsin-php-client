@@ -12,7 +12,7 @@ $ composer require muharremyildirim/kolaygelsin-php-client
 
 ## Basic Usage
 
-For more examples please check out `/examples` folder.
+For more examples please check out `/examples` (@@todo) folder.
 
 ### Create a new Shipment
 
