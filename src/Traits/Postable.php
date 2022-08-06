@@ -9,7 +9,7 @@ trait Postable
     /**
      * post
      *
-     * @return void
+     * @return AbstractModel
      */
     public function post()
     {
