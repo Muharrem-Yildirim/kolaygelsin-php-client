@@ -132,12 +132,12 @@ This package uses `PHPUnit` library for unit testing. You can do run tests with 
 
 For Unix:
 
-```
+```bash
 export KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit ./tests
 ```
 
 For Windows:
 
-```
+```bash
 set KOLAYGELSIN_API_KEY='YOUR_API_KEY' && ./vendor/bin/phpunit ./tests
 ```
