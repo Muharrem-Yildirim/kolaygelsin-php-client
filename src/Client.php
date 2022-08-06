@@ -116,7 +116,7 @@ class Client
                 $method,
                 $endpoint,
                 [
-                    'debug'   => true,
+                    'debug' => $this->isTestMode,
                     'body' => json_encode($params)
                 ],
 
