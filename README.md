@@ -10,6 +10,11 @@ The package is available via composer:
 $ composer require muharremyildirim/kolaygelsin-php-client
 ```
 
+### Dependencies
+
+- [Guzzle](https://packagist.org/packages/guzzlehttp/guzzle)
+- [PHPUnit](https://packagist.org/packages/phpunit/phpunit)
+
 ## Basic Usage
 
 For more examples please check out `/examples` (@@todo) folder.
@@ -128,7 +133,7 @@ var_dump($recipient->post());
 
 ### Testing
 
-This package uses `PHPUnit` library for unit testing. You can do run tests with these commands:
+This package uses [PHPUnit](https://packagist.org/packages/phpunit/phpunit) library for unit testing. You can do run tests with these commands:
 
 For Unix:
 
